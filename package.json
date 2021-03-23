@@ -1,0 +1,22 @@
+{
+  "name": "mocha-chai-1",
+  "version": "1.0.0",
+  "description": "Demos unit test in Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verawolf94/mocha-chai.git"
+  },
+  "author": "Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verawolf94/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/verawolf94/mocha-chai#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
